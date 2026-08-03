@@ -1,6 +1,8 @@
 from core.brain import think
+from core.startup import startup
 
-print("Starting Zenix...")
+startup()
+
 print("Type 'exit' to quit.\n")
 
 while True:
