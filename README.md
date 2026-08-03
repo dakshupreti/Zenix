@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="assets/logo.png" width="220">
+</p>
+
+<h1 align="center">🤖 Zenix</h1>
+
+<p align="center">
+A futuristic AI desktop assistant built with Python.
+</p>
 # 🤖 Zenix
 
 **Zenix** is a personal AI desktop assistant built in Python. It is designed to automate everyday tasks, answer commands, search the web, remember information, and eventually become a full-featured voice assistant inspired by assistants like Jarvis.
